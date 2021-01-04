@@ -14,6 +14,6 @@
 <img height="80" src="https://harshal09.netlify.app/img/python.png"/> <img height="80" src="https://harshal09.netlify.app/img/Cpp.png"/> <img height="80"  src="https://harshal09.netlify.app/img/C.png"/> <img height="80" src="https://harshal09.netlify.app/img/JS.png" /> <img height="100" src="https://harshal09.netlify.app/img/react.png" />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+<img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
 
 ![](https://komarev.com/ghpvc/?username=Harshal0902&color=blue)
