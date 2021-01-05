@@ -11,7 +11,7 @@
 <br />
 
 ### Tech I'm famaliar with..
-<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="100" src="https://skillsite.netlify.app/react.png" />
+<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
