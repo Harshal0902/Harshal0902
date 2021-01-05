@@ -10,7 +10,7 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
 <br />
 
-### Tech I'm famaliar with..
+### Tech I'm familiar with..
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
 
