@@ -11,13 +11,13 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 - 😄 Pronouns: He/His
 - 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)
 
-### Connect with me:
+## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
 [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6)
 <br />
 
-### Tech I'm familiar with..
+## Tech I'm familiar with..
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
 
