@@ -6,10 +6,14 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 
 
 ## A little more about me...  
-- 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning MERN stack
-- 😄 Pronouns: He/His
-- 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)
+```javascript
+const harshal = {
+  pronouns: "he" | "him",
+  code: [Python, C, C++, Javascript, HTML, CSS, ],
+  tools: [React, Bootstrap, Styled-Components]
+}
+```
+
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
@@ -17,10 +21,26 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6)
 <br />
 
-## Tech I'm familiar with..
-<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
-<br />
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
 
 ![](https://komarev.com/ghpvc/?username=Harshal0902&color=blue)
+
+
+
+<!--   
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+- 🔭 I’m currently working on Front End Web Development
+- 🌱 I’m currently learning MERN stack
+- 😄 Pronouns: He/His
+- 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)  
+## Tech I'm familiar with..
+<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
+<br />
+-->
