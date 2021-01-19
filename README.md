@@ -9,7 +9,7 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 ```javascript
 const harshal = {
   pronouns: "he" | "him",
-  code: [Python, C, C++, Javascript, HTML, CSS, ],
+  code: [Python, C, C++, Javascript, HTML, CSS],
   tools: [React, Bootstrap, Styled-Components]
 }
 ```
