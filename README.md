@@ -27,9 +27,16 @@ const harshal = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
 
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Harshal0902&theme=gruvbox"/>
+  </a>
+</p>
+</details>
+
 ![](https://komarev.com/ghpvc/?username=Harshal0902&color=blue)
-
-
 
 <!--   
   techCommunities: {
