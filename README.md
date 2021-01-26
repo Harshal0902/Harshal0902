@@ -16,6 +16,8 @@ const harshal = {
 
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
 [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6)
@@ -31,7 +33,7 @@ const harshal = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Harshal0902&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Harshal0902&row=1&column=6&theme=darkhub"/>
   </a>
 </p>
 </details>
@@ -44,7 +46,8 @@ const harshal = {
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+ funfact: "I love coding+eating+repeating"
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: He/His
