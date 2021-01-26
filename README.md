@@ -38,7 +38,7 @@ const harshal = {
 </p>
 </details>
 
-![](https://komarev.com/ghpvc/?username=Harshal0902&color=blue)
+<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Harshal0902&color=blue"></code></p>
 
 <!--   
   techCommunities: {
