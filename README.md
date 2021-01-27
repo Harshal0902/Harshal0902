@@ -10,7 +10,8 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 const harshal = {
   pronouns: "he" | "him",
   code: [Python, C, C++, Javascript, HTML, CSS],
-  tools: [React, Bootstrap, Styled-Components]
+  tools: [React, Bootstrap, Styled-Components],
+  challenge: "I am doing the #3DaysOfPython challenge"
 }
 ```
 
@@ -52,7 +53,6 @@ const harshal = {
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
  funfact: "I love coding+eating+repeating"
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning MERN stack
