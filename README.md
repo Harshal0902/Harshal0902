@@ -11,7 +11,7 @@ const harshal = {
   pronouns: "he" | "him",
   code: [Python, C, C++, Javascript, HTML, CSS],
   tools: [React, Bootstrap, Styled-Components],
-  challenge: "I am doing the #3DaysOfPython challenge"
+  challenge: "I am doing the #30DaysOfPython challenge"
 }
 ```
 
