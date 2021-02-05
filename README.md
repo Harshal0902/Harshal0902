@@ -11,6 +11,9 @@ const harshal = {
   pronouns: "he" | "him",
   code: [Python, C, C++, Javascript, HTML, CSS],
   tools: [React, Bootstrap, Styled-Components],
+  techCommunities: {
+                        studentAmbassador: "Microsoft Learn Student Ambassador"
+                      },
   challenge: "I am doing the #30DaysOfPython challenge"
 }
 ```
@@ -48,11 +51,6 @@ const harshal = {
 <p><code><img height="20" src="https://komarev.com/ghpvc/?username=Harshal0902&color=blue"></code></p>
 
 <!--   
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
  funfact: "I love coding+eating+repeating"
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning MERN stack
