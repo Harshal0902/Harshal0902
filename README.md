@@ -12,7 +12,8 @@ const harshal = {
   code: [Python, C, C++, Javascript, HTML, CSS],
   tools: [React, Bootstrap, Styled-Components],
   techCommunities: {
-                        studentAmbassador: "Microsoft Learn Student Ambassador"
+                        studentAmbassador: "Microsoft Learn Student Ambassador",
+                        mentor: "CrossWoC"
                       },
   challenge: "I am doing the #30DaysOfPython challenge"
 }
