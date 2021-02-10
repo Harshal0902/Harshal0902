@@ -21,7 +21,7 @@ const harshal = {
 
 <p align="center">
   <a>
-   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/stormtroopocat.png">
+   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0902&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
@@ -36,7 +36,7 @@ const harshal = {
 <br />
 
 
-<summary>Github Stats 📈:</summary>
+<summary><h2>Github Stats 📈:</h2></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
 
