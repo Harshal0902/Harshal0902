@@ -8,14 +8,14 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 ## A little more about me...  
 ```javascript
 const harshal = {
-  pronouns: "he" | "him",
-  code: [Python, C, C++, Javascript, HTML, CSS],
-  tools: [React, Bootstrap, Styled-Components],
-  techCommunities: {
-                        studentAmbassador: "Microsoft Learn Student Ambassador",
-                        mentor: "CrossWoC"
-                      },
-  challenge: "I am doing the #30DaysOfPython challenge"
+	pronouns: "he" | "him",
+	code: [Python, C, C++, Javascript, HTML, CSS],
+	tools: [React, Bootstrap, Styled - Components],
+	techCommunities: {
+		studentAmbassador: "Microsoft Learn Student Ambassador",
+		mentor: "CrossWoC"
+	},
+	challenge: "I am doing the #30DaysOfPython challenge"
 }
 ```
 
