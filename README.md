@@ -10,7 +10,7 @@ Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my B
 const harshal = {
 	pronouns: "he" | "him",
 	code: [Python, C, C++, Javascript, HTML, CSS],
-	tools: [React, Bootstrap, Styled - Components],
+	tools: [React, Bootstrap, Styled-Components],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		mentor: "CrossWoC"
