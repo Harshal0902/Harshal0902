@@ -52,7 +52,7 @@ const harshal = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Harshal0902&row=1&column=6&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Harshal0902&theme=darkhub"/>
   </a>
 </p>
 </details>
