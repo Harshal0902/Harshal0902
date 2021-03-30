@@ -2,7 +2,7 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
-Hi, my name is Harshal Raikwar. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile.
+Hi, my name is Harshal Raikwar. I am a 2nd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile.
 
 
 ## A little more about me...  
@@ -26,6 +26,14 @@ const harshal = {
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0902&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
+
+## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
+[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
+[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6)
+<br />
 
 <summary><h2>Github Stats 📈:</h2></summary>
 
@@ -58,12 +66,4 @@ const harshal = {
 ## Tech I'm familiar with..
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
-I am a 2nd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. 
-## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
-[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6)
-<br />
-https://harshal09.netlify.app/
 -->
