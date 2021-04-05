@@ -63,7 +63,7 @@ const harshal = {
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: He/His
 - 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)  
-## Tech I'm familiar with..
+## Tech I'm familiar with...
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
 -->
