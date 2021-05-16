@@ -1,4 +1,4 @@
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> , I'm Harshal Raikwar</h2>
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Harshal Raikwar</h2>
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
@@ -23,7 +23,7 @@ const harshal = {
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0902&theme=highcontrast&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
 
