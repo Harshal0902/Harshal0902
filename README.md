@@ -15,7 +15,7 @@ const harshal = {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		mentor: "CrossWoC"
 	},
-	askMeAbout: ["Web Development", "App Development", "Machine Learning"],
+	askMeAbout: ["Web Development", "Machine Learning"],
 	challenge: "I am doing the #30DaysOfJavaScript challenge",
 }
 ```
