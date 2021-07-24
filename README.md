@@ -29,9 +29,9 @@ const harshal = {
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/harshal-raikwar-43056b199/)
-[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/harshal_0902/)
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/HarshalRaikwar6) 
+[<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858102-f8eb952a-0273-41f6-add2-6ab7dab8cfe4.png"/>](https://www.linkedin.com/in/harshal0902/)
+[<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858137-f7c9f6f5-d2fa-4e9a-bfbc-811815844a71.png"/>](https://www.instagram.com/harshal_0902/)
+[<img width='40' height='40' src="https://user-images.githubusercontent.com/64153988/126858150-193ef995-c8f9-4e46-ac2a-2a96f5897b4f.png"/>](https://twitter.com/HarshalRaikwar6) 
 <br />
 
 <summary><h2>Github Stats 📈:</h2></summary>
