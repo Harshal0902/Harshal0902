@@ -17,7 +17,7 @@ const harshal = {
 		mentor: "LGM SoC"
 	},
 	askMeAbout: ["Web Development", "Machine Learning"],
-	challenge: "I am doing the #30DaysOfJavaScript challenge"
+	challenge: "I am doing the #30DaysOfML challenge"
 }
 ```
 
