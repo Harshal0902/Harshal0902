@@ -13,7 +13,8 @@ const harshal = {
 	framework: [React Js, Next Js ],
 	tools: [Tailwind CSS, Bootstrap, Styled-Components],
 	techCommunities: {
-		studentAmbassador: "Microsoft Learn Student Ambassador"
+		studentAmbassador: "Microsoft Learn Student Ambassador",
+		openSource: "MLH Fall Fellow'21 (Prep)"
 	},
 	askMeAbout: ["Web Development", "Machine Learning"]
 }
