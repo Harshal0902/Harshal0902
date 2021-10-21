@@ -14,7 +14,7 @@ const harshal = {
 	tools: [Tailwind CSS, Bootstrap, Styled-Components],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
-		openSource: "MLH Prep Fellow 2021"
+		openSource: "MLH Prep Fellow Fall'21"
 	},
 	askMeAbout: ["Web Development", "Machine Learning"]
 }
