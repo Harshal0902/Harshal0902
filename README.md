@@ -9,14 +9,15 @@ Hi, my name is Harshal Raikwar. I am a 3<sup>rd</sup> Year Student at SRM-IST pu
 ```javascript
 const harshal = {
 	pronouns: "he" | "him",
-	code: [Python, C, C++, JavaScript, TypeScript],
-	framework: [React Js, Next Js ],
-	tools: [Tailwind CSS, Bootstrap, Styled-Components],
+	code: [Python, JavaScript, TypeScript, C, C++],
+	framework: [React Js, Next Js],
+	devOps: [Docker],
+	tools: [Figma, Tailwind CSS, Bootstrap, Styled-Components],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		openSource: "MLH Prep Fellow Fall'21"
 	},
-	askMeAbout: ["Web Development", "Machine Learning"]
+	askMeAbout: ["Web Development", "DevOps", "Machine Learning"]
 }
 ```
 
