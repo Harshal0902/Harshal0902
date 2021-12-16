@@ -11,8 +11,8 @@ const harshal = {
 	pronouns: "he" | "him",
 	code: [Python, JavaScript, TypeScript, C, C++],
 	framework: [React Js, Next Js],
-	devOps: [Docker],
-	tools: [Figma, Tailwind CSS, Bootstrap, Styled-Components],
+	devOps: [Docker, Kubernetes, Prometheus],
+	tools: [Jest, Figma, Tailwind CSS],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		openSource: "MLH Prep Fellow Fall'21"
