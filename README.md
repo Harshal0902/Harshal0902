@@ -2,10 +2,10 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
-Hi, my name is Harshal Raikwar. I am a 3<sup>rd</sup> Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
+Hi, my name is Harshal Raikwar. I am a 3<sup>rd</sup> Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902) and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
 
 
-## A little more about me...  
+## The developer side of me...  
 ```javascript
 const harshal = {
 	pronouns: "he" | "him",
