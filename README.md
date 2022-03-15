@@ -9,15 +9,15 @@ Hi, my name is Harshal Raikwar. I am a 3<sup>rd</sup> Year Student at SRM-IST pu
 ```javascript
 const harshal = {
 	pronouns: "he" | "him",
-	code: [Python, JavaScript, TypeScript, C, C++],
+	code: [Python, Java, JavaScript, TypeScript, C, C++],
 	framework: [React Js, Next Js],
-	devOps: [Docker, Kubernetes, Prometheus],
+	devOps: [Docker, Kubernetes, Prometheus, Jenkins],
 	tools: [Jest, Figma, Tailwind CSS],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		openSource: "MLH Prep Fellow Fall'21"
 	},
-	askMeAbout: ["Web Development", "DevOps", "Machine Learning"]
+	askMeAbout: ["Web Development", "DevOps"]
 }
 ```
 
@@ -60,7 +60,6 @@ const harshal = {
 </p>
 </details>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Harshal0902&color=blue"></code></p>
 
 <!--   
  funfact: "I love coding+eating+repeating"
@@ -71,4 +70,7 @@ const harshal = {
 ## Tech I'm familiar with...
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
+
+<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Harshal0902&color=blue"></code></p>
+
 -->
