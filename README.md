@@ -1,4 +1,5 @@
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Harshal Raikwar</h2>
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Harshal Raikwar
+================================
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='155' height='155'>
 
@@ -32,9 +33,13 @@ const harshal = {
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
 
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://www.linkedin.com/in/harshal0902/)
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053821-af57cb35-246b-4d37-8418-2dc8664ddc37.png"/>](https://twitter.com/HarshalRaikwar6)
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053752-f53f94fc-8cbc-4754-a547-a27694d237e4.png"/>](https://www.instagram.com/harshal_0902/) 
+<p align="left"> 
+<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 <br />
 
 <h2>Github Stats 📈:</h2>
