@@ -1,12 +1,11 @@
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Harshal Raikwar
-================================
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Harshal Raikwar
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='155' height='155'>
 
 Hi, my name is Harshal Raikwar. I am a Junior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902) and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
 
+## The developer side of me...
 
-## The developer side of me...  
 ```javascript
 const harshal = {
 	pronouns: "he" | "him",
@@ -31,14 +30,15 @@ const harshal = {
 </p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="left"> 
-<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="4%" height="32" /></a> 
+<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="4%" height="32" /></a>
+<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="4%" height="32" /></a>
+<a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="4%" height="32" /></a>
+<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="4%" height="32" /></a>
 </p>
 
 <h2>Github Stats 📈:</h2>
@@ -64,13 +64,12 @@ const harshal = {
 </p>
 </details>
 
-
-<!--   
+<!--
  funfact: "I love coding+eating+repeating"
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: He/His
-- 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)  
+- 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)
 ## Tech I'm familiar with...
 <img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
 <br />
