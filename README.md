@@ -15,7 +15,7 @@ const harshal = {
 	tools: [Jest, Figma, Tailwind CSS],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
-		openSource: "MLH Prep Fellow Fall'21"
+		openSource: "MLH Fellow Summer'22"
 	},
 	askMeAbout: ["Web Development", "DevOps"]
 }
@@ -34,17 +34,17 @@ const harshal = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="left"> 
-<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="4%" height="32" /></a> 
-<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="4%" height="32" /></a>
-<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="4%" height="32" /></a>
-<a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="4%" height="32" /></a>
-<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="4%" height="32" /></a>
+<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="38" height="32" /></a> 
+<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="38" height="32" /></a>
+<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="38" height="32" /></a>
+<a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="38" height="32" /></a>
+<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="38" height="32" /></a>
 </p>
 
 <h2>Github Stats 📈:</h2>
 
   <p align="center">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height="183" width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshal0902&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0902&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
   </p>
 
