@@ -9,10 +9,10 @@ Hi, my name is Harshal Raikwar. I am a Junior at SRM-IST pursuing my Bachelor's 
 ```javascript
 const harshal = {
 	pronouns: "he" | "him",
-	code: [Python, Java, JavaScript, TypeScript, C, C++],
+	code: [Python, Java, JavaScript, TypeScript, C, C++, SQL],
 	framework: [React Js, Next Js],
 	devOps: [Docker, Kubernetes, Prometheus, Jenkins],
-	tools: [Jest, Figma, Tailwind CSS],
+	tools: [Jest, Figma],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
 		openSource: "MLH Fellow Summer'22"
