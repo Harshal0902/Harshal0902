@@ -4,7 +4,7 @@
   <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='160' height='160'>
 </p>
 
-Hi, my name is Harshal Raikwar. I am a Junior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902) and enjoy bringing ideas to life in the browser. I am a Web Developer and DevOps Engineer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
+Hi, my name is Harshal Raikwar. I am a Senior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902), and enjoy bringing ideas to life in the browser. I am a Web Developer and DevOps Engineer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
 
 ## The developer side of me...
 
@@ -17,7 +17,8 @@ const harshal = {
 	tools: [Jest, Figma],
 	techCommunities: {
 		studentAmbassador: "Microsoft Learn Student Ambassador",
-		openSource: "MLH Fellow Summer'22"
+		openSourceContributor: "Solana Labs",
+		openSource: "MLH Fellow Summer'22",
 	},
 	askMeAbout: ["Web Development", "DevOps"]
 }
@@ -52,9 +53,9 @@ const harshal = {
 
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
+  <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Harshal0902&theme=xcode" />
-</p>
+  </p>
 </details>
 
 <details align="center">
@@ -67,6 +68,7 @@ const harshal = {
 </details>
 
 <!--
+
  funfact: "I love coding+eating+repeating"
 - 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning MERN stack
