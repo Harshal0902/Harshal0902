@@ -28,8 +28,8 @@ const harshal = {
 
 <p align="center">
   <!-- <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png"> -->
-   <img height="180" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
-   <a href="https://leetcode.com/Harshal0902" target="_blank" rel="noreferrer"><img height="180" width="49%" align="center" src="https://leetcard.jacoblin.cool/Harshal0902?theme=dark&font=monospace&ext=contest"/></a>
+   <img height="190" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
+   <a href="https://leetcode.com/Harshal0902" target="_blank" rel="noreferrer"><img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/Harshal0902?theme=dark&font=monospace&ext=contest"/></a>
   <!-- <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png"> -->
 </p>
 
