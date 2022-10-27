@@ -20,7 +20,8 @@ const harshal = {
 		openSourceContributor: "Solana Labs",
 		openSource: "MLH Fellow Summer'22",
 	},
-	askMeAbout: ["Web Development", "DevOps"]
+	askMeAbout: ["Web Development", "DevOps"],
+	funFact: "I know how to center a div in 10 ways"
 }
 ```
 
