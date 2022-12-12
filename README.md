@@ -39,7 +39,7 @@ const harshal = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="left"> 
-<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="./icons/github.svg" width="38" height="38" /></a>
+<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://github.com/Harshal0902/Harshal0902/blob/main/icons/github.svg" width="38" height="38" /></a>
 <a href="https://harshal0902.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="38" height="38" /></a>
 <a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="38" height="38" /></a>
 <a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="38" height="38" /></a>
