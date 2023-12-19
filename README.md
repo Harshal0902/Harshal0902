@@ -4,7 +4,7 @@
   <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='160' height='160'>
 </p>
 
-Hi, my name is Harshal Raikwar. I am a Senior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902), and enjoy bringing ideas to life in the browser. I am a Web Developer and DevOps Engineer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
+Hi, my name is Harshal Raikwar. I am a seasoned Full Stack Engineer and DevOps professional with a passion for translating ideas into tangible, innovative solutions. I like spending my time working on projects, participating in [hackathons](https://devpost.com/Harshal0902), and enjoy bringing ideas to life in the browser. I am a Web Developer and DevOps Engineer. I love playing around with web design and hopefully creating something that makes people smile. Check out my portfolio [here](https://harshal09.vercel.app).
 
 ## The developer side of me...
 
@@ -12,7 +12,7 @@ Hi, my name is Harshal Raikwar. I am a Senior at SRM-IST pursuing my Bachelor's 
 const harshal = {
 	pronouns: "he" | "him",
 	code: [Python, Java, JavaScript, TypeScript, C, C++, SQL],
-	framework: [React Js, Next Js],
+	framework: [React Js, Next Js, Nest Js],
 	devOps: [Docker, Kubernetes, Prometheus, Jenkins],
 	tools: [Jest, Figma],
 	techCommunities: {
@@ -20,7 +20,7 @@ const harshal = {
 		openSourceContributor: "Solana Labs",
 		openSource: "MLH Fellow Summer'22",
 	},
-	askMeAbout: ["Web Development", "DevOps"],
+	askMeAbout: ["Full Stack Development", "DevOps"],
 	funFact: "I know how to center a div in 10 ways"
 }
 ```
