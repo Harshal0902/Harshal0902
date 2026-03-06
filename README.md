@@ -42,9 +42,9 @@ const harshal = {
 
 <a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997029-389fab74-2555-41a9-b29c-29c81990613e.png" width="38" height="38" /></a>
 <a href="https://harshal0902.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997332-fc8f87dd-6bfa-4eb1-a1a4-dc8eb7e0211a.png" width="38" height="38" /></a>
-<a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997606-66d4eab4-574c-46a5-b24a-a91aaa495781.png" width="40" height="40" /></a>
-<a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997776-b59bf0bc-7414-4734-9dce-960b7e020bcd.png" width="38" height="38" /></a>
-<a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997987-8e2d6f80-dfc1-4917-a27b-47595e676c0f.png" width="38" height="38" /></a>
+<!-- <a href="http://www.instagram.com/harshal_0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997606-66d4eab4-574c-46a5-b24a-a91aaa495781.png" width="40" height="40" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/harshal0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997776-b59bf0bc-7414-4734-9dce-960b7e020bcd.png" width="38" height="38" /></a> -->
+<!-- <a href="https://www.twitter.com/HarshalRaikwar6" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997987-8e2d6f80-dfc1-4917-a27b-47595e676c0f.png" width="38" height="38" /></a> -->
 </p>
 <!-- <a href="https://www.polywork.com/harshal0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="38" height="38" /></a> -->
 
